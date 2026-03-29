@@ -2,6 +2,10 @@
 
 # Script 3: Disk and Permission Auditor
 
+# Author: Simran Kumari
+
+# Roll Number: 24BCG10075
+
 DIRS=("/etc" "/var/log" "/home" "/usr/bin" "/tmp")
 
 echo "Directory Audit Report"
