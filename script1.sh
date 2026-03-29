@@ -2,7 +2,14 @@
 
 # Script 1: System Identity Report
 
-STUDENT_NAME="Your Name"
+# Author: Simran Kumari
+
+# Roll Number: 24BCG10075
+
+# Course: Open Source Software
+
+STUDENT_NAME="Simran Kumari"
+ROLL_NUMBER="24BCG10075"
 SOFTWARE_CHOICE="Git"
 
 KERNEL=$(uname -r)
@@ -13,6 +20,7 @@ DISTRO=$(cat /etc/os-release | grep PRETTY_NAME | cut -d= -f2)
 
 echo "================================"
 echo " Open Source Audit — $STUDENT_NAME"
+echo " Roll Number: $ROLL_NUMBER"
 echo "================================"
 echo "Software : $SOFTWARE_CHOICE"
 echo "Distro   : $DISTRO"
