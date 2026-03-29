@@ -2,6 +2,10 @@
 
 # Script 4: Log File Analyzer
 
+# Author: Simran Kumari
+
+# Roll Number: 24BCG10075
+
 LOGFILE=$1
 KEYWORD=${2:-"error"}
 COUNT=0
