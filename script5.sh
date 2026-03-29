@@ -2,6 +2,10 @@
 
 # Script 5: Open Source Manifesto Generator
 
+# Author: Simran Kumari
+
+# Roll Number: 24BCG10075
+
 echo "Answer the following questions:"
 
 read -p "1. Name one open-source tool you use: " TOOL
