@@ -1,7 +1,6 @@
 # Open Source Audit Project
 
 ## Student Details
-
 Name:Simran Kumari
 Registration Number: 24BCG10075
 Course: Open Source Software
